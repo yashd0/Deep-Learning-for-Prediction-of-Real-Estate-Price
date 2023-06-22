@@ -1,5 +1,9 @@
 # Deep-Learning-for-Prediction-of-Real-Estate-Price
 
+![th (1)](https://github.com/yashd0/Deep-Learning-for-Prediction-of-Real-Estate-Price/assets/109656499/230cfe25-e788-4194-9f0c-f319a6c77483)
+
+
+
 # Data 
 
 kaggle datasets download -d arslanali4343/real-estate-dataset
